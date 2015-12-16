@@ -2,7 +2,8 @@ TheSimplestPageIndicatorView
 ===========
 
 TheSimplestPageIndicatorView is an Open Source Android library that allows developers to easily create applications 
-with page indicator like those made in iOS. Feel free to use it all you want in your Android apps. The library provided as is without any warranty.
+with page indicator like those made in iOS. 
+Feel free to use it all you want in your Android apps. The library provided as is without any warranty.
 
 ![screenshot 1](https://github.com/ihorsuniversalapps/TheSimplestPageIndicatorView/raw/master/screenshot1.png "ScreenShot Of TheSimplestPageIndicatorView")
 ![screenshot 2](https://github.com/ihorsuniversalapps/TheSimplestPageIndicatorView/raw/master/screenshot2.png "ScreenShot Of TheSimplestPageIndicatorView")
@@ -22,7 +23,7 @@ dependencies {
 ```
 ### Usage
 
-Insert code below to your layout xml file.
+Insert the code below to your layout xml file.
 
 ```xml
 <ua.in.iua.thesimplestpageindicator.TheSimplestPageIndicatorView
@@ -38,7 +39,7 @@ Insert code below to your layout xml file.
         android:layout_height="wrap_content"/>
 ``` 
 
-Put next code in your `Activity` class in the `#onCreate()` method.
+Put the next code in your `Activity` class in the `#onCreate()` method.
 
 ```java
 @Override
@@ -78,11 +79,11 @@ Define next attributes in your xml tag:
 * `indicatorInactiveColor` xml - attr defines the color of inactive indicator.
 * `indicatorSelectedColor` xml - attr defines the color of active(selected) indicator.
 
-# Licence
+# License
 
 The MIT License (MIT)
 
-Copyright (c) 2015 ihorsuniversalapps
+Copyright (c) 2015 ihorsuniversalapps (Ihor Rusin)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
