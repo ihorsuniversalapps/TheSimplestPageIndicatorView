@@ -5,7 +5,7 @@ TheSimplestPageIndicatorView is an Open Source Android library that allows devel
 with page indicator like those made in iOS. Feel free to use it all you want in your Android apps. The library provided as is without any warranty.
 
 ![screenshot 1](https://github.com/ihorsuniversalapps/TheSimplestPageIndicatorView/raw/master/screenshot1.png "ScreenShot Of TheSimplestPageIndicatorView")
-![screenshot 2](https://github.com/ihorsuniversalapps/TheSimplestPageIndicatorView/raw/master/screenshot1.png "ScreenShot Of TheSimplestPageIndicatorView")
+![screenshot 2](https://github.com/ihorsuniversalapps/TheSimplestPageIndicatorView/raw/master/screenshot2.png "ScreenShot Of TheSimplestPageIndicatorView")
 
 ## Getting started
 
